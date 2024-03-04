@@ -1,5 +1,19 @@
 # lua-c-api-tutorials
 
+## Usage
+
+- build the env
+
+  ~~~shell
+  sh build.sh
+  ~~~
+
+- clear the env
+
+  ~~~shell
+  sh clear.sh
+  ~~~
+
 ## Contents
 
 * [Get Started](./doc/01_get_started.md)
